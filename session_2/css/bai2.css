@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+.wrapper{
+    width: 1479px;
+height: 236px;
+background: #0085FF;
+display: flex;
+}
+.box-1{
+    margin-top: 18px;
+    width: 547px;
+height: 149px;
+background: #EB5757;
+position: absolute;
+}
+.box-2{
+    width: 816px;
+height: 171px;
+background: #F2994A;
+margin-top: 10px;
+}
+.box{
+    margin-top: 10px;
+width: 1183px;
+height: 193px;
+background: #754A4A;
+}
